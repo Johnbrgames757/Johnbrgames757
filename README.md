@@ -1,0 +1,50 @@
+<img  align="left" width="360px"  height="420px" src="https://github.com/Johnbrgames757/Johnbrgames757/assets/146959712/80aad2ec-eae9-43d2-83f2-04f8b07e9450">
+
+## Olá, Mundo! Estou fazendo um curso de programação web Full-Stack no Instituto da (IOS)
+<img/>
+
+## Tecnologias que estou aprendendo:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+## Encontre-Me:
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+<div align="center>
+
+<a href="https://github.com/Johnbrgames757/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnbrgames757&layout=compact&theme=dark&hide_border=true" /></a> 
+
+
+
+
+</img>
+
+</div>
+
+<br> <br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá meu nome é John Wislley.Mais pode me chamar so de john mesmo tenho 16 anos, eu sou um programador web novato ou seja estou aprendendo aos poucos programação,Amo jogos sempre ando jogando algo no PC, na maioria das vezes jogo algo da steam tipo Team Fortress 2 por exemplo. <br>
+  Estou Na escola e fazendo curso de programação web.
+</p>
+
+<p align="left">
+ 
+  🦄 Objetivo: **Ser programador de jogos e fazer o que eu gosto.**
+</p>
+
+<p align="left">
+</p>
+
+  💼 Ferramentas:  **Word, Excel, PowerPoint, Canva e Ferramentas Google.**
+
+
+<p align="left">
+  💌 Navegue à vontade pelo perfil.
+</p>
+
+<img/>
