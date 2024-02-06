@@ -1,4 +1,4 @@
-<img  align="left" width="360px"  height="420px" src="https://github.com/Johnbrgames757/Johnbrgames757/assets/146959712/80aad2ec-eae9-43d2-83f2-04f8b07e9450">
+<img  align="left" width="360px"  height="420px" src="Screenshot_20240206-144001_FlipaClip-removebg-preview">
 
 ## Olá, Mundo! Estou fazendo um curso de programação web Full-Stack no Instituto da (IOS)
 <img/>
