@@ -25,7 +25,7 @@
 
 <br> <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="Screenshot_20240206-144001_FlipaClip-removebg-preview" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá meu nome é John Wislley.Mais pode me chamar so de john mesmo tenho 16 anos, eu sou um programador web novato ou seja estou aprendendo aos poucos programação,Amo jogos sempre ando jogando algo no PC, na maioria das vezes jogo algo da steam tipo Team Fortress 2 por exemplo. <br>
