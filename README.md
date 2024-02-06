@@ -1,4 +1,4 @@
-<img  align="left" width="360px"  height="420px" src="Screenshot_20240206-144001_FlipaClip-removebg-preview">
+<img  align="left" width="360px"  height="420px" src="file:///C:/Users/PC/Downloads/Screenshot_20240206-144001_FlipaClip-removebg-preview.png">
 
 ## Olá, Mundo! Estou fazendo um curso de programação web Full-Stack no Instituto da (IOS)
 <img/>
