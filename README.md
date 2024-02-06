@@ -14,7 +14,7 @@
 
 <div align="center>
 
-<a href="https://github.com/Johnbrgames757/github-readme-stats"><img align="center" src="" /></a> 
+<a href="https://github.com/Johnbrgames757/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnbrgames757&layout=compact&theme=dark&hide_border=true" /></a> 
 
 
 
